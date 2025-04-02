@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL, databasing, and Python!
 - 🌱 I’m currently learning the above!
 - 💞️ I’m looking to collaborate on text analysis projects in Python. 
-- 📫 How to reach me lucasandrew89@gmail.com
+- 📫 How to reach me -
 
 <!---
 Grimhammer/Grimhammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
